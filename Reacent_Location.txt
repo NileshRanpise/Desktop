@@ -1,0 +1,34 @@
+Hi,
+
+My Name is Nilesh.I'm React native developer
+
+I have created this project in expo with typescript and material components.
+
+this is Location manger app
+
+According to this assignment:
+
+When the user will open the application, user will see the two tabs first one for home screen 
+and second for map of the location.here i have use react navigation for navigation purpose
+
+In the home tab, the current location is shown on the top. And below that the list of recent location is displyed.
+
+To get the user’s current location, 
+1st we are collecting user device coordinates using expo location and 
+then we are passing those coordinate’s to opencagedata API and implement reverse geocoding.
+
+User recent location is automatically added to the list of location after every 5 minutes. 
+user can see his most recent 30 location.
+
+I have created two button for removing location
+ 1st button called 'remove' this button shown in with location itself for removing that particular location 
+ 2nd button called 'clear all' this button shown at end of screen for removing all location of user
+
+I have also provided the second tab, which shows the recent visited location on the map. 
+
+i have used jest for test cases
+
+Thank you !!
+
+
+      

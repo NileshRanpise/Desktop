@@ -1,0 +1,41 @@
+Hi,
+
+My Name is Nilesh.I'm React native developer
+
+I have created this project in expo with typescript and material components.
+
+this is a car management sytem app
+
+According to this assignment:
+
+when the user opens application there will be a two text input and 3 buttons. 
+one text input for creating a number of lots and another for car registration number.
+I kept create parking button,submit button and car registration text input disable till the user mension number of lots in 
+text input field and there also have reset button for refresh data.
+
+when user enter the number of lots in text input field and click on create parking button, 
+it will create a number of lots and shows in the flatlist.
+
+when user will enter car registration number and click on the submit button 
+its randomly allocate the lot, If the parking is full it shows alert message as parking is full
+and registration no also have unique unless it shows error for having same no.
+Only the allocated lots can be clicked and able to generate bill.
+
+for exit of car  
+user can select his slot and moved into model screen where user will get one text input,create bill and pay bill 
+button once user enter no of hrs car parked bill will generated
+
+calculation for the parking charges for first 2 hours will be 10 dollars and then
+after 10 dollars will be charged for every consecutive hour.
+
+once by clicking on “Pay Bill” button, that lot will be deallocate and free for
+another parking
+
+then need to procced and he will be removed from parking slot.
+
+I have used Jest for test cases.
+
+Thank you !!
+
+
+      

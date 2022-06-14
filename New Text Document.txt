@@ -1,0 +1,98 @@
+hrms
+Kavya@123
+
+
+
+React Native Elements :
+https://reactnativeelements.com/docs
+
+Daily Task Update for 02/06/2022 :
+
+1.done all required installation related react-native env setup
+2.create react native app and test app in expo go
+3.working on basic components and props  
+
+pending topics :
+Navigation,
+Api calls,
+Hooks ( useState and useEffect) 
+
+
+Daily Task Update for 03/06/2022 :
+
+1.Hooks ( useState and useEffect) 
+2.Counter app - func and class
+3.Core react native components
+	Basic,UI,List Views
+
+pending topics :
+Component styling,
+Navigation,
+Network calls,
+State management
+
+C:\Users\DELL\AppData\Local\Android\sdk\platform-tools\adb.exe
+
+
+
+Daily Task Update for 06/06/2022 :
+
+1.test app in android emulator
+2.working on Navigation
+
+Pending topics :
+Network calls,
+State management
+
+
+Daily Task Update for 07/06/2022 :
+
+1.Navigation
+
+pending topics :
+Network calls,
+State management,
+Deployment,
+Version Control
+
+
+Daily Task Update for 08/06/2022 :
+
+1.Network calls
+
+pending topics :
+State management,
+Deployment,
+Version Control
+
+
+Daily Task Update for 08/06/2022 :
+
+1.State management
+
+pending topics :
+Deployment,
+Version Control
+
+
+Daily Task Update for 09/06/2022 :
+
+1.State management
+
+pending topics :
+Deployment,
+Version Control
+
+Daily Task Update for 10/06/2022 :
+
+1.State management
+
+pending topics :
+Deployment,
+Version Control
+
+
+
+
+
+

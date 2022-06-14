@@ -1,0 +1,29 @@
+Hi,
+
+My Name is Nilesh.I'm React native developer
+
+I have created this project in expo with typescript and material components.
+
+this is Nasa Astroid details app
+
+According to this assignment:
+
+When the user will open the application, he will see the list of asteroids in the scrollable list 
+which will be provided by NASA API.To get this list of asteroids, i have make a network call to NASA API to 
+fetch data of asteroids and show it in flatlist. 
+
+list has been arreanged as per decending order based on absolute magnitute atrribute.
+If any asteroid is potentially hazardous, it will be highlighted in red,
+i have implement loader while retriving the asteroid data the for user will see a loading spinner . 
+
+When user select any astroids he will moved into that particular asteroid details screen there 
+he can see all details about that astroid like id,name,absolute magnitute,minimum and maximum estimate diameter,is potentially hazardious astroid  ,
+tha last time and distence it had close approach to earth and the next time and distence it had close approach to earth
+The screen will also have a back to go back to our initial list.
+
+I have used Jest for test cases.
+
+Thank you !!
+
+
+      
