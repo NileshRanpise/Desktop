@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": "jzVERVD"
+    },
+    {
+      "name": "adam",
+      "email": "adam@gmail.com",
+      "id": "N2ZwteN"
+    },
+    {
+      "name": "user02",
+      "email": "user",
+      "id": "12tQ7vi"
+    }
+  ],
+  "users": [
+    "any"
+  ],
+  "blogs": {
+    "any": []
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "react-native",
+      "author": "facebook"
+    },
+    {
+      "author": "ascasc",
+      "title": "dscdcdcd",
+      "id": 3
+    }
+  ],
+  "users": [
+    "any"
+  ],
+  "blogs": {
+    "any": []
+  }
+}

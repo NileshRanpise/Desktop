@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": "1",
+      "name": "User01",
+      "email": "user01@gmail.com"
+    },
+    {
+      "userId": 2,
+      "id": "2",
+      "name": "User01",
+      "email": "user01@gmail.com"
+    },
+    {
+      "userId": 1,
+      "id": "1",
+      "name": "User01",
+      "email": "user01@gmail.com"
+    },
+    {
+      "userId": 1,
+      "id": "1",
+      "name": "User01",
+      "email": "user01@gmail.com"
+    },
+    {
+      "name": "Nilesh",
+      "email": "nil@gmail.com",
+      "id": "8RhT4DA"
+    },
+    {
+      "name": "Nilesh",
+      "email": "nil@gmail.com",
+      "id": "bSnylg2"
+    },
+    {
+      "name": "Virat",
+      "email": "virat@gmail.com",
+      "id": "Xy57x8A"
+    },
+    {
+      "name": "Rohit",
+      "email": "rohit@gmail.com",
+      "id": "5QzLmO8"
+    },
+    {
+      "name": "Sagar",
+      "email": "sagar@gmail.com",
+      "id": "USgqkWW"
+    }
+  ],
+  "users": [
+    "any"
+  ],
+  "blogs": {
+    "any": []
+  }
+}
